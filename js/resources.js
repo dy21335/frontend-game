@@ -7,7 +7,7 @@
 (function() {
     var resourceCache = {};
     var loading = [];
-    var readyCallbacks = [];
+    var readyCallbacks = [];      /* 当所有图片加载完成，就调用readycallbacks里的函数。
 
     /* This is the publicly accessible image loading function. It accepts
      * an array of strings pointing to image files or a string for a single
