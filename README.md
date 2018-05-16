@@ -1,8 +1,19 @@
-# frontend-nanodegree-arcade-game
-===============================
+# 街机克隆游戏
 
-实现的效果视频： https://www.youtube.com/watch?v=SxeHV1kt7iU&feature=youtu.be
 
-描述：在此游戏中有玩家和敌人 (小虫)。玩家的目标是抵达水域，并且不会 撞到任何其他敌人。
-玩家可以上下左右移动。敌人在场景中的道路上移动速度 变化不一。
-一旦玩家撞到敌人，游戏就会重置，并且玩家返回起始方框。玩家 抵达水域后，游戏胜利。
+
+#### 游戏界面
+
+![](http://ww1.sinaimg.cn/large/ec07bbd2gy1frdetx9ofej20wi0xmdpz.jpg)
+
+
+
+#### 游戏规则
+
++ 玩家通过移动键盘上下左右键，避开障碍物，走到对面即为胜利；
+
+
+
+#### 胜利界面
+
+![](http://ww1.sinaimg.cn/large/ec07bbd2gy1frdev6zx8nj20v80dmwfs.jpg)
